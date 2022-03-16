@@ -1,0 +1,36 @@
+ .u-section-1 {
+  background-image: none;
+  max-height: 500;
+}
+
+.u-section-1 .u-image-1 {
+  width: 121px;
+  height: 121px;
+  background-image: url("images/login2.gif");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Pyidaungsu-2.5_Regular";
+  font-size: 2.25rem;
+  margin: 15px 0 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 207px;
+  background-image: none;
+  margin-top: 9px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+  }
+}@font-face {
+  font-family: 'Pyidaungsu-2.5_Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Pyidaungsu-2.5_Regular.ttf);
+}
